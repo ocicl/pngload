@@ -1,0 +1,10 @@
+* pngload
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/bufferswap/pngload.git   |
+| commit  | e9ea54f  |
+| systems | pngload |
+|---------+-------------------------------------------|
+
