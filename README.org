@@ -1,10 +1,10 @@
 * pngload
 
+A PNG (Portable Network Graphics) image format decoder.
 
-
-|---------+-------------------------------------------|
-| source  | git:https://github.com/bufferswap/pngload.git   |
-| commit  | e9ea54f  |
-| systems | pngload |
-|---------+-------------------------------------------|
+|---------+---------------------------------------|
+| source  | git:https://github.com/3b/pngload.git |
+| commit  | e9ea54f                               |
+| systems | pngload                               |
+|---------+---------------------------------------|
 
