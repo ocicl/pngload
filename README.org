@@ -4,7 +4,7 @@ A PNG (Portable Network Graphics) image format decoder.
 
 |---------+---------------------------------------|
 | source  | git:https://github.com/3b/pngload.git |
-| commit  | e9ea54f                               |
+| commit  | aef35ca                               |
 | systems | pngload                               |
 |---------+---------------------------------------|
 
