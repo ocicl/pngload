@@ -8,4 +8,4 @@ A PNG (Portable Network Graphics) image format decoder.
 | systems | pngload                               |
 |---------+---------------------------------------|
 
- 
+  
